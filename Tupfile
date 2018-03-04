@@ -1,1 +1,2 @@
 : foreach *.diff |> pygmentize -f html -O full -o %o %f |> %B.html
+: *.html |> ./gen-index.sh > %o |> index.html
