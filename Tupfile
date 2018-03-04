@@ -1,0 +1,1 @@
+: foreach *.diff |> pygmentize -f html -O full -o %o %f |> %B.html
