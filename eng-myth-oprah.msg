@@ -1,20 +1,20 @@
-Winfrey 𝗮𝗻𝗱 her untold
+Winfrey *and* her untold
 
 from t̸h̸e̸ scratch
 
-r̸a̸i̸s̸e̸ 𝗰𝗹𝗶𝗺𝗯𝗲𝗱 up the ladder of t̸h̸e̸ society
+r̸a̸i̸s̸e̸ *climbed* up the ladder of t̸h̸e̸ society
 
-strict a̸n̸ 𝗮𝗻𝗱 religious
+strict a̸n̸ *and* religious
 
-t̸h̸i̸s̸ 𝗵𝗲𝗿 entry
+t̸h̸i̸s̸ *her* entry
 
-r̸e̸w̸a̸r̸d̸s̸ 𝗮𝘄𝗮𝗿𝗱𝘀
+r̸e̸w̸a̸r̸d̸s̸ *awards*
 
-in her 𝗲𝗮𝗿𝗹𝘆 life
+in her *early* life
 
-w̸a̸s̸ 𝗵𝗮𝘀 been
+w̸a̸s̸ *has* been
 
-r̸a̸c̸i̸s̸m̸, 𝗿𝗮𝗰𝗶𝘀𝗺 𝗮𝗻𝗱 injustice
+r̸a̸c̸i̸s̸m̸, *racism* *and* injustice
 
-b̸e̸c̸a̸m̸e̸ 𝗶𝘀 a symbol
+b̸e̸c̸a̸m̸e̸ *is* a symbol
 
