@@ -19,4 +19,3 @@ she u̸n̸d̸e̸r̸s̸t̸a̸n̸d̸ *understood*
 all  this e̸v̸e̸n̸t̸s̸ *reminiscence*
 
 for  the s̸t̸u̸d̸e̸n̸t̸ *students*
-

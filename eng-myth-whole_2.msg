@@ -51,4 +51,3 @@ society c̸r̸e̸a̸t̸e̸ m̸y̸t̸h̸ *creates myths*
 where  they *were* born
 
 be  aware *of* the  difference
-

@@ -17,4 +17,3 @@ we c̸a̸n̸ *have* only h̸i̸r̸e̸ one o̸f̸ y̸o̸u̸ *vacancy*
 T̸h̸a̸n̸k̸ y̸o̸u̸ *Thanks* for  coming
 
 I  will *eagerly* wait
-

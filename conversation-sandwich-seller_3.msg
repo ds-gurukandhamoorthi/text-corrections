@@ -32,4 +32,3 @@ S̸o̸, *And as a result,* I  have
 W̸h̸a̸t̸ i̸s̸ m̸y̸ *I want to know the* job  schedule
 
 m̸o̸r̸i̸n̸g̸ *morning*
-

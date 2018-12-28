@@ -48,4 +48,3 @@ l̸a̸k̸e̸ *lack* of  water
 w̸h̸e̸n̸ *whenever* they  want
 
 to p̸u̸s̸h̸ b̸a̸c̸k̸ ... f̸o̸r̸ e̸x̸a̸m̸p̸l̸e̸ *abstract away from agriculture problems like lack of water and inclement weather*
-

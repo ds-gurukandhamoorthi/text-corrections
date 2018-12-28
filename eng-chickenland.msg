@@ -18,4 +18,3 @@ g̸i̸v̸e̸ m̸o̸n̸e̸y̸ f̸o̸r̸ *assist* our ... *family financially*
 p̸u̸t̸ *invest* the r̸e̸s̸t̸ t̸o̸ t̸h̸e̸ B̸a̸n̸k̸ *remaining amount wisely*
 
 That's  all *folks*
-

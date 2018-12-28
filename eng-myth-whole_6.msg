@@ -52,4 +52,3 @@ authors r̸i̸g̸h̸t̸s̸ *write* books
 follow h̸e̸r̸e̸ *her* example
 
 to  take  her f̸o̸r̸ a̸n̸ e̸x̸a̸m̸p̸l̸e̸ *as a role model*
-

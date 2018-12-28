@@ -16,10 +16,10 @@ all: index.html $(HTMLS) $(MSGS) $(INLINE_HTMLS)
 	pygmentize -f html -O full -o $@ $^
 
 %_inline.html : %.diff /home/guru/beautify-text-corrections/beautify.py
-	/home/guru/beautify-text-corrections/beautify.py $< $@
+	/home/guru/beautify-text-corrections/beautify.py --to html $< $@
 
 %.msg : %.diff /home/guru/beautify-text-corrections/beautify.py
-	/home/guru/beautify-text-corrections/beautify.py $< $@
+	/home/guru/beautify-text-corrections/beautify.py --to message $< $@
 
 index.html : gen-index.sh $(HTMLS) $(INLINE_HTMLS)
 	./gen-index.sh > $@

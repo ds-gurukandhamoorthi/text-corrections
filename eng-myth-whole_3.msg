@@ -56,4 +56,3 @@ by s̸o̸m̸e̸ a̸u̸t̸h̸o̸r̸ l̸i̸k̸e̸ Mr  Malory f̸o̸r̸ e̸x̸a̸m�
 they i̸n̸f̸l̸u̸e̸n̸c̸e̸d̸ *influence* the  mind
 
 a̸d̸u̸l̸t̸ *both adults* and  children a̸l̸s̸o̸
-

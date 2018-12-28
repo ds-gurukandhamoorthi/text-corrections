@@ -17,4 +17,3 @@ in  which o̸n̸e̸ he
 by s̸o̸m̸e̸ a̸u̸t̸h̸o̸r̸ l̸i̸k̸e̸ Mr  Malory f̸o̸r̸ e̸x̸a̸m̸p̸l̸e̸ *and other authors*
 
 w̸a̸s̸ a̸l̸s̸o̸ p̸a̸i̸n̸t̸e̸d̸ *is depicted*
-

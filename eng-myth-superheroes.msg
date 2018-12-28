@@ -9,4 +9,3 @@ we  can s̸e̸e̸ *recognize* elements
 inspire *us with* hope
 
 of s̸o̸l̸i̸d̸e̸r̸ *soldiers*
-

@@ -15,4 +15,3 @@ even t̸h̸e̸ c̸o̸u̸n̸t̸e̸r̸ *an over-the-counter* medicament
 n̸u̸r̸s̸ *nurse*
 
 by  a  nurse *to a nefarious end*
-

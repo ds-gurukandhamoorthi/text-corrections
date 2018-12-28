@@ -17,4 +17,3 @@ w̸a̸s̸ *has* been
 r̸a̸c̸i̸s̸m̸, *racism and* injustice
 
 b̸e̸c̸a̸m̸e̸ *is* a  symbol
-

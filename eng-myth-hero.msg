@@ -15,4 +15,3 @@ against d̸e̸v̸i̸l̸ *the evil*
 c̸a̸l̸l̸e̸d̸ *call* them
 
 can f̸o̸u̸g̸h̸t̸ *fight* against
-

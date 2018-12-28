@@ -9,4 +9,3 @@ n̸u̸e̸v̸o̸s̸ *nuevas* instalaciones
 accesible *y cómodo*
 
 l̸a̸s̸ *los* estudiantes
-

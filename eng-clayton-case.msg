@@ -17,4 +17,3 @@ h̸e̸r̸ *his* family
 m̸i̸s̸s̸u̸s̸e̸d̸ *misused*
 
 that's t̸h̸e̸ t̸h̸i̸n̸k̸ w̸h̸i̸c̸h̸ m̸a̸k̸e̸ *what prompted* me *to* choose  this  news
-

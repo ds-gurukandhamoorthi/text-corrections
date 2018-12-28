@@ -25,4 +25,3 @@ or a̸ political  groups
 his d̸e̸a̸t̸h̸ *demise* came  upon
 
 and t̸h̸e̸n̸ when
-

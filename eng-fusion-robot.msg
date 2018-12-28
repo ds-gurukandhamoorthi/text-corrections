@@ -24,4 +24,3 @@ s̸c̸i̸e̸n̸t̸s̸ *scientists*
 a̸n̸d̸ *in* answer  to  our
 
 verbal *commands* and b̸o̸d̸y̸ a̸c̸t̸i̸o̸n̸s̸ *bodily gestures*
-
